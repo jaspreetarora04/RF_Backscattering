@@ -50,5 +50,5 @@ Backscatter communication works by modulating the reflection of ambient RF signa
 * Divyanshu Pandey
 * Saksham Singhal
 * Vartika Singh
-Final Year B.Tech (ECE)
+ *  **Final Year B.Tech (ECE)**
 
