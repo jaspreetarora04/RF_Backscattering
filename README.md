@@ -1,14 +1,14 @@
-# 📡 RF Backscatter Communication System
+#  RF Backscatter Communication System
 
-## 🔍 Overview
+## ⚙️Overview
 
 This project focuses on developing a low-power wireless communication system using backscatter technology for battery-less IoT applications.
 
-## ⚙️ Problem Statement
+## ⚙️Problem Statement
 
 Traditional wireless communication systems consume significant power as they generate their own RF signals, making them inefficient for battery-less or ultra-low-power IoT devices.
 
-## ⚙️ Solution
+## ⚙️Solution
 
 The proposed system uses backscatter communication, where devices transmit data by reflecting existing RF signals instead of generating new ones, significantly reducing power consumption.
 
@@ -46,9 +46,9 @@ Backscatter communication works by modulating the reflection of ambient RF signa
 
 ## ⚙️ Author
 
-**Jaspreet**
-**Divyanshu Pandey**
-**Saksham Singhal**
-**Vartika Singh**
+* **Jaspreet**
+* Divyanshu Pandey
+* Saksham Singhal
+* Vartika Singh
 Final Year B.Tech (ECE)
 
